@@ -20,10 +20,15 @@
     - Allow users to directly edit fields with validation errors.
     - Improve performance by handling large datasets (e.g., add pagination or lazy loading).
 
+
+**Design Considerations**:
+
+- **No Figma Provided**: We have deliberately not provided Figma or design assets for this project. This is to give you the freedom to design the table and modals as you see fit. Part of the evaluation will be based on your ability to create a user-friendly, intuitive UI without strict design guidelines. You're free to choose the best layout, color schemes, and UX patterns, and UI Libraries that fit the task.
+
+
 **Mock Data**: You will be working with the following mock JSON data. Your API should serve this data to the frontend:
 
 ```json
-jsonCopy code
 {
   "records": [
     {
@@ -93,3 +98,5 @@ jsonCopy code
 - **Time Estimation**: This assignment should take 4–6 hours to complete.
 - **Submission**: Please provide a GitHub repo link containing your code, with a README explaining your approach, assumptions, and any improvements you would make given more time.
 - **Bonus Considerations** (optional): Adding features like inline editing, client-side validation, or performance optimizations.
+
+
