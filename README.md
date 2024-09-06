@@ -27,7 +27,7 @@
 3. **CSV Export**: Allow users to export the data to a CSV format.
 4. **Bonus** (Optional):
     - Allow users to directly edit fields with validation errors.
-    - Improve performance by handling large datasets (e.g., add pagination or lazy loading).
+    - Improve performance by handling large datasets.
 
 
 **Design Considerations**:
@@ -103,9 +103,7 @@
 
 **Expectations**:
 
-- **Tech Stack**: Use **Next.js** for API and server-side rendering, React for frontend components. Styling can be done with **Tailwind CSS** or **Ant Design**.
+- **Tech Stack**: Use **Next.js** for API and server-side rendering, React for frontend components. Styling can be done with **Tailwind CSS** or your **UI library of choice**.
 - **Time Estimation**: This assignment should take 4–6 hours to complete.
-- **Submission**: Please provide a GitHub repo link containing your code, with a README explaining your approach, assumptions, and any improvements you would make given more time.
-- **Bonus Considerations** (optional): Adding features like inline editing, client-side validation, or performance optimizations.
-
+- **Submission**: Please fork this repo, and provide a GitHub repo link containing your code, with a README explaining your approach, assumptions, and any improvements you would make given more time.
 
