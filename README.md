@@ -25,9 +25,6 @@
     - **Hoverable Error Messages**: Each cell with a validation error should display the error message on hover as a tooltip.
     - **Error Summary Modal**: Include an "Error Summary" modal with a clickable button or link that opens a modal. This modal should list all the validation errors for that specific row, with details for each error.
 3. **CSV Export**: Allow users to export the data to a CSV format.
-4. **Bonus** (Optional):
-    - Allow users to directly edit fields with validation errors.
-    - Improve performance by handling large datasets.
 
 
 **Design Considerations**:
