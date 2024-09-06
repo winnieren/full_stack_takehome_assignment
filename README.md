@@ -1,3 +1,12 @@
+<a href="https://www.lume.ai" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/data-review-assignment/public/logo_title.png" style="max-width: 100%; width: 250px; margin-bottom: 20px">
+    <img alt="OpenAI Cookbook Logo" src="/data-review-assignment/public/logo_title.png" width="250px">
+  </picture>
+</a>
+
+<h3></h3>
+ 
 ---
 
 ### **Take-Home Assignment: Data Review, Editor, and Exporter**
@@ -16,9 +25,6 @@
     - **Hoverable Error Messages**: Each cell with a validation error should display the error message on hover as a tooltip.
     - **Error Summary Modal**: Include an "Error Summary" modal with a clickable button or link that opens a modal. This modal should list all the validation errors for that specific row, with details for each error.
 3. **CSV Export**: Allow users to export the data to a CSV format.
-4. **Bonus** (Optional):
-    - Allow users to directly edit fields with validation errors.
-    - Improve performance by handling large datasets (e.g., add pagination or lazy loading).
 
 
 **Design Considerations**:
@@ -94,9 +100,7 @@
 
 **Expectations**:
 
-- **Tech Stack**: Use **Next.js** for API and server-side rendering, React for frontend components. Styling can be done with **Tailwind CSS** or **Ant Design**.
+- **Tech Stack**: Use **Next.js** for API and server-side rendering, React for frontend components. Styling can be done with **Tailwind CSS** or your **UI library of choice**.
 - **Time Estimation**: This assignment should take 4–6 hours to complete.
-- **Submission**: Please provide a GitHub repo link containing your code, with a README explaining your approach, assumptions, and any improvements you would make given more time.
-- **Bonus Considerations** (optional): Adding features like inline editing, client-side validation, or performance optimizations.
-
+- **Submission**: Please fork this repo, and provide a GitHub repo link containing your code, with a README explaining your approach, assumptions, and any improvements you would make given more time.
 
