@@ -101,6 +101,12 @@
 **Expectations**:
 
 - **Tech Stack**: Use **Next.js** for API and server-side rendering, React for frontend components. Styling can be done with **Tailwind CSS** or your **UI library of choice**.
-- **Time Estimation**: This assignment should take 4–6 hours to complete.
-- **Submission**: Please fork this repo, and provide a GitHub repo link containing your code, with a README explaining your approach, assumptions, and any improvements you would make given more time.
+- **Time Estimation**: This assignment should take approximately 4–6 hours to complete.
+- **Submission**: Please ensure the following:
+  - Provide a GitHub repository link containing your code.
+    - Include a README file explaining your approach, assumptions, and any improvements you would make given more time.
+  - Deploy your project to a platform of your choice that supports modern web apps (e.g., Netlify, AWS Amplify, Render, or DigitalOcean).
+    - Share the live deployment link.
+    - Mention any specific setup steps or configurations required for running the application.
+
 
