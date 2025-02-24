@@ -18,3 +18,15 @@ body {
     text-wrap: balance;
   }
 }
+
+.td-critical {
+  background-color: red;
+}
+
+.td-warning {
+  background-color: yellow;
+}
+
+.td-success {
+  background-color: green;
+}
